@@ -1,17 +1,17 @@
-# Hi there, I'm Barbara Flores Rios! 👋
+# Hi there, I'm Barbara Flores! 👋
 
 ## About Me
 - 📚 I'm currently pursuing a Master's in Data Science at Duke University.
 - 👩‍💻 I have over 4 years of professional experience as a Data Scientist Manager.
 - 🎓 I hold a Bachelor's degree in Industrial Engineering and a Master's in Marketing.
-- 🌱 I'm currently learning Machine Learning, Natural Language Processing, and I'm eager to explore more in Deep Learning and Computer Vision.
+- 🌱 I'm currently learning Machine Learning, Natural Language Processing, and I'm eager to explore more in Deep Learning, Computer Vision, and related topics.
+- 🌍 Originally from Valparaíso, Chile.
 - 🤖 I'm a Machine Learning and Data Science enthusiast.
 
 ## Skills
 - 🐍 Proficient in Python
 - 📊 Experienced with R
 - 💾 Skilled in SQL
-
 
 ## Other Skills & Certificates
 - Neural Networks and Deep Learning (Coursera)
