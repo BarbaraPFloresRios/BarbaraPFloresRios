@@ -5,7 +5,6 @@
 - 👩‍💻 I have over 4 years of professional experience in Data Scientist.
 - 🎓 I hold a Bachelor's degree in Industrial Engineering.
 - 🌱 I'm currently learning Machine Learning, Natural Language Processing, and I'm eager to explore more in Deep Learning, Computer Vision, and related topics.
-- 🌍 Originally from Valparaíso, Chile.
 
 ## Skills
 - 🐍 Proficient in Python
