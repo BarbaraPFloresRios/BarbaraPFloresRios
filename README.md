@@ -20,7 +20,7 @@
 - R (DataCamp)
 - Google Analytics Certification
 
-- ## Other Skills
+## Other Skills
 - Data Science
 - Machine Learning
 - Deep Learning/ Neural Networks
