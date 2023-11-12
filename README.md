@@ -11,7 +11,7 @@
 - 📊 Experienced with R
 - 💾 Skilled in SQL
 
-## Other Skills & Certificates
+## Certificates
 - Neural Networks and Deep Learning (Coursera)
 - BigQuery (Coursera)
 - SQL (DataCamp, 5 courses)
@@ -19,6 +19,12 @@
 - Shell (DataCamp)
 - R (DataCamp)
 - Google Analytics Certification
+
+- ## Other Skills
+- Data Science
+- Machine Learning
+- Deep Learning/ Neural Networks
+  
 
 Feel free to reach out to me via email at barbara.floresrios@duke.edu
 
