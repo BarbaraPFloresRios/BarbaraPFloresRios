@@ -36,7 +36,8 @@
 - #### [IDS702_ModelingAndRepresentationOfData](https://github.com/BarbaraPFloresRios/IDS702_ModelingAndRepresentationOfData)
   Collection of projects from the 'Modeling and Representation of Data - IDS702' class at Duke University (Fall 2023). 
 
-
+- #### [IDS720_PracticalDataScience](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience)
+  Repository for 'Practical Data Science - IDS720' class at Duke University (Fall 2023). This course provides hands-on experience with real data using essential data science tools such as the command line, Git, Python, and Jupyter Notebooks, ensuring versatility in data handling.
   
 
 
