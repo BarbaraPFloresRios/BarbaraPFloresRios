@@ -38,7 +38,13 @@
 
 - #### [IDS720_PracticalDataScience](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience)
   Repository for 'Practical Data Science - IDS720' class at Duke University (Fall 2023). This course provides hands-on experience with real data using essential data science tools such as the command line, Git, Python, and Jupyter Notebooks, ensuring versatility in data handling.
+
+- #### [IDS706_DataEngineering_CI_GitHubActions_Python](https://github.com/BarbaraPFloresRios/IDS706_DataEngineering_CI_GitHubActions_Python)
+
+
+- #### [IDS706_DataEngineering_Rust_CLI_Binary](https://github.com/BarbaraPFloresRios/IDS706_DataEngineering_Rust_CLI_Binary)
   
+
 
 
 
