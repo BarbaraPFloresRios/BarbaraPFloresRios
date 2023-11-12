@@ -5,6 +5,7 @@
 - 👩‍💻 I have over 4 years of professional experience in Data Scientist.
 - 🎓 I hold a Bachelor's degree in Industrial Engineering.
 - 🚀 I'm continuously enhancing my skills in Machine Learning and Natural Language Processing, with a strong enthusiasm to delve deeper into areas such as Deep Learning, Computer Vision, and related domains. 🌐
+- 🔗 [Linkedin](https://www.linkedin.com/in/barbarafloresrios/)
 
 ## Skills
 - 🐍 Proficient in Python
@@ -37,7 +38,7 @@ Collection of projects from the 'Modeling and Representation of Data - IDS702' c
 
   
 
-Feel free to reach out to me via email at barbara.floresrios@duke.edu
+
 
 <!---
 BarbaraPFloresRios/BarbaraPFloresRios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
