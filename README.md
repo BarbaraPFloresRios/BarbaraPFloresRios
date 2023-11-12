@@ -24,6 +24,7 @@
 - Data Science
 - Machine Learning
 - Deep Learning/ Neural Networks
+- Data Visualization
   
 
 Feel free to reach out to me via email at barbara.floresrios@duke.edu
