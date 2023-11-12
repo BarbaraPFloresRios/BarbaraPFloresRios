@@ -13,13 +13,13 @@
 - 💾 Skilled in SQL
 
 ## Certificates
-- Neural Networks and Deep Learning (Coursera)
-- BigQuery (Coursera)
-- SQL (DataCamp, 5 courses)
-- Python Programming (DataCamp, 4 courses)
-- Shell (DataCamp)
-- R (DataCamp)
-- Google Analytics Certification
+- [Neural Networks and Deep Learning (Coursera)](https://www.coursera.org/account/accomplishments/certificate/ZFQZXJUKWP7L)
+- [BigQuery (Coursera)](https://www.coursera.org/account/accomplishments/certificate/28MSWGF3WJL7)
+- [SQL (DataCamp, 5 courses)](https://www.datacamp.com/statement-of-accomplishment/track/c1792994560eb4722b906327e5f59adf5b945ca4)
+- [Python Programming (DataCamp, 4 courses)](https://www.datacamp.com/statement-of-accomplishment/track/4a86016a4eaee5bfe3352aa7b1025293eb5ae499)
+- [Shell (DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/5c1305f1897446dbc339e01ea860d76c45a31b0f)
+- [R (DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/e812ee09321a98b00c1db3eeeb75a82175ccd459)
+- [Google Analytics](https://analytics.google.com/analytics/academy/certificate/SH6GJdnMRLexXZkbsj8cFA)
 
 ## Other Skills
 - Data Science
