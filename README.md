@@ -25,6 +25,7 @@
 - Data Science
 - Machine Learning
 - Deep Learning/ Neural Networks
+- Data Analysis
 - Data Visualization
 
 ## Repositories
