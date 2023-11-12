@@ -25,6 +25,21 @@
 - Machine Learning
 - Deep Learning/ Neural Networks
 - Data Visualization
+
+## Repositories
+
+### [IDS703_NLP_NaturalLanguageProcessing](https://github.com/BarbaraPFloresRios/IDS703_NLP_NaturalLanguageProcessing)
+- Collection of projects from the 'Introduction to Natural Language Processing - IDS703' class at Duke University (Fall 2023)
+
+### Project 2: [Project Name 2](link_to_project_2)
+- Brief description of the project and its purpose.
+
+### Project 3: [Project Name 3](link_to_project_3)
+- Brief description of the project and its purpose.
+
+... (agrega más proyectos según sea necesario)
+
+
   
 
 Feel free to reach out to me via email at barbara.floresrios@duke.edu
