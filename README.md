@@ -29,11 +29,11 @@
 
 ## Repositories
 
-#### [IDS703_NLP_NaturalLanguageProcessing](https://github.com/BarbaraPFloresRios/IDS703_NLP_NaturalLanguageProcessing)
-Collection of projects from the 'Introduction to Natural Language Processing - IDS703' class at Duke University (Fall 2023)
+- #### [IDS703_NLP_NaturalLanguageProcessing](https://github.com/BarbaraPFloresRios/IDS703_NLP_NaturalLanguageProcessing)
+  Collection of projects from the 'Introduction to Natural Language Processing - IDS703' class at Duke University (Fall 2023)
 
-#### [IDS702_ModelingAndRepresentationOfData](https://github.com/BarbaraPFloresRios/IDS702_ModelingAndRepresentationOfData)
-Collection of projects from the 'Modeling and Representation of Data - IDS702' class at Duke University (Fall 2023). 
+- #### [IDS702_ModelingAndRepresentationOfData](https://github.com/BarbaraPFloresRios/IDS702_ModelingAndRepresentationOfData)
+  Collection of projects from the 'Modeling and Representation of Data - IDS702' class at Duke University (Fall 2023). 
 
 
   
