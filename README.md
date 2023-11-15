@@ -43,7 +43,9 @@
   In this project, we delve into the world of Continuous Integration (CI), harnessing the power of GitHub Actions to streamline and improve the development process of a Python Data Science project.
 
 - #### [IDS706_DataEngineering_Rust_CLI_Binary](https://github.com/BarbaraPFloresRios/IDS706_DataEngineering_Rust_CLI_Binary)
-  
+  The objective of this project is to develop a Rust command-line application (CLI) that interacts with an SQLite database. This involves creating and manipulating the database, using GitHub Copilot, generating an optimized binary as a GitHub Actions artifact, properly configuring GitHub Actions to test, build, and lint the Rust code, and producing a demonstration video explaining and showcasing the project's functionality.
+
+
 
 
 
