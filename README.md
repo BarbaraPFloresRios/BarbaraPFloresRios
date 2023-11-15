@@ -40,7 +40,7 @@
   Collection of projects from the 'Practical Data Science - IDS720' class at Duke University (Fall 2023). This course provides hands-on experience with real data using essential data science tools such as the command line, Git, Python, and Jupyter Notebooks, ensuring versatility in data handling.
 
 - #### [IDS706_DataEngineering_CI_GitHubActions_Python](https://github.com/BarbaraPFloresRios/IDS706_DataEngineering_CI_GitHubActions_Python)
-In this project, we delve into the world of Continuous Integration (CI), harnessing the power of GitHub Actions to streamline and improve the development process of a Python Data Science project.
+  In this project, we delve into the world of Continuous Integration (CI), harnessing the power of GitHub Actions to streamline and improve the development process of a Python Data Science project.
 
 - #### [IDS706_DataEngineering_Rust_CLI_Binary](https://github.com/BarbaraPFloresRios/IDS706_DataEngineering_Rust_CLI_Binary)
   
