@@ -28,24 +28,6 @@
 - Data Analysis
 - Data Visualization
 
-## Repositories
-
-- #### [IDS703_NLP_NaturalLanguageProcessing](https://github.com/BarbaraPFloresRios/IDS703_NLP_NaturalLanguageProcessing)
-  Collection of projects from the 'Introduction to Natural Language Processing - IDS703' class at Duke University (Fall 2023)
-
-- #### [IDS702_ModelingAndRepresentationOfData](https://github.com/BarbaraPFloresRios/IDS702_ModelingAndRepresentationOfData)
-  Collection of projects from the 'Modeling and Representation of Data - IDS702' class at Duke University (Fall 2023). 
-
-- #### [IDS720_PracticalDataScience](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience)
-  Collection of projects from the 'Practical Data Science - IDS720' class at Duke University (Fall 2023). This course provides hands-on experience with real data using essential data science tools such as the command line, Git, Python, and Jupyter Notebooks, ensuring versatility in data handling.
-
-- #### [IDS706_DataEngineering_CI_GitHubActions_Python](https://github.com/BarbaraPFloresRios/IDS706_DataEngineering_CI_GitHubActions_Python)
-  In this project, we delve into the world of Continuous Integration (CI), harnessing the power of GitHub Actions to streamline and improve the development process of a Python Data Science project.
-
-- #### [IDS706_DataEngineering_Rust_CLI_Binary](https://github.com/BarbaraPFloresRios/IDS706_DataEngineering_Rust_CLI_Binary)
-  The objective of this project is to develop a Rust command-line application (CLI) that interacts with an SQLite database. This involves creating and manipulating the database, using GitHub Copilot, generating an optimized binary as a GitHub Actions artifact, properly configuring GitHub Actions to test, build, and lint the Rust code, and producing a demonstration video explaining and showcasing the project's functionality.
-
-
 
 
 
