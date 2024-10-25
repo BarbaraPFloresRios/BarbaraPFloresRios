@@ -1,4 +1,4 @@
-# Hi there, I'm Barbara Flores! 👋
+# Hi there, I'm Barbara! 👋
 
 ## About Me
 - 📚 I'm currently pursuing a Master's in Data Science at Duke University.
