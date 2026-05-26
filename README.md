@@ -8,9 +8,15 @@
 - 🔗 [Linkedin](https://www.linkedin.com/in/barbarafloresrios/)
 
 ## Skills
-- 🐍 Proficient in Python
-- 📊 Experienced with R
-- 💾 Skilled in SQL
+- Data Science
+- A/B Testing
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- Data Visualization
+- 🐍 Python
+- 💾 SQL
+
 
 ## Certificates
 - [Neural Networks and Deep Learning (Coursera)](https://www.coursera.org/account/accomplishments/certificate/ZFQZXJUKWP7L)
@@ -21,12 +27,8 @@
 - [R (DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/e812ee09321a98b00c1db3eeeb75a82175ccd459)
 - [Google Analytics](https://analytics.google.com/analytics/academy/certificate/SH6GJdnMRLexXZkbsj8cFA)
 
-## Other Skills
-- Data Science
-- Machine Learning
-- Deep Learning/ Neural Networks
-- Data Analysis
-- Data Visualization
+
+
 
 
 
