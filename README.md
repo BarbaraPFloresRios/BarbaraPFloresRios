@@ -25,5 +25,10 @@
 - [Python Programming (DataCamp, 4 courses)](https://www.datacamp.com/statement-of-accomplishment/track/4a86016a4eaee5bfe3352aa7b1025293eb5ae499)
 - [SQL (DataCamp, 5 courses)](https://www.datacamp.com/statement-of-accomplishment/track/c1792994560eb4722b906327e5f59adf5b945ca4)
 
-## 💡Projects
-- [IDS720 PracticalDataScience](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience)
+## 🚧Personal Projects
+
+## 💡University Projects
+- [IDS701 Causal Inference](https://github.com/BarbaraPFloresRios/IDS701_SolvingRealProblemsWithDataScience)
+- [IDS705_Machine Learning](https://github.com/BarbaraPFloresRios/IDS705_PrinciplesOfMachineLearning)
+- [IDS703_NLP](https://github.com/BarbaraPFloresRios/IDS703_NLP_NaturalLanguageProcessing)
+- [IDS720 Data Science](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience)
