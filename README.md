@@ -24,3 +24,6 @@
 - [BigQuery (Coursera)](https://www.coursera.org/account/accomplishments/certificate/28MSWGF3WJL7)
 - [Python Programming (DataCamp, 4 courses)](https://www.datacamp.com/statement-of-accomplishment/track/4a86016a4eaee5bfe3352aa7b1025293eb5ae499)
 - [SQL (DataCamp, 5 courses)](https://www.datacamp.com/statement-of-accomplishment/track/c1792994560eb4722b906327e5f59adf5b945ca4)
+
+## 💡Projects
+- [IDS720 PracticalDataScience](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience)
