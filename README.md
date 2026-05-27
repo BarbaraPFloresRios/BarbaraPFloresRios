@@ -26,7 +26,7 @@
 - [SQL (DataCamp, 5 courses)](https://www.datacamp.com/statement-of-accomplishment/track/c1792994560eb4722b906327e5f59adf5b945ca4)
 
 ## 🚧 Personal Projects
-
+- [Job Tracker](https://github.com/BarbaraPFloresRios/JobTracker)
 
 ## 💡 Academic Projects
 - [Causal Inference](https://github.com/BarbaraPFloresRios/IDS701_SolvingRealProblemsWithDataScience)
