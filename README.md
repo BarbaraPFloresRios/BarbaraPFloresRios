@@ -8,6 +8,7 @@
 - Interested in how data and AI can help build better products and user experiences.
 - Currently building small projects around AI, automation, and data.
 - [LinkedIn](https://www.linkedin.com/in/barbarafloresrios/)
+- [Website](https://tuwebsite.com)
 
 ## 🛠 Skills
 - Python
