@@ -28,6 +28,7 @@
 
 ## 🚧 Personal Projects
 - [Job Tracker](https://github.com/BarbaraPFloresRios/JobTracker)
+- [Job TrackerChile](https://github.com/BarbaraPFloresRios/JobTrackerChile)
 
 ## 💡 Academic Projects
 - [Causal Inference](https://github.com/BarbaraPFloresRios/IDS701_SolvingRealProblemsWithDataScience)
